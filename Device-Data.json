@@ -1,0 +1,362 @@
+[
+  {
+      "DeviceName": "Device1",
+      "TankName": "Charlie",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 60,
+      "WaterVolumeCC": "6.2",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device2",
+      "TankName": "Bita",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "ONN",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 88,
+      "WaterVolumeCC": "7.78",
+      "NotificationAlert": "Leak detected"
+    
+  },
+ {
+      "DeviceName": "Device3",
+      "TankName": "alfa",
+      "TankStatus": "Offline",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 72,
+      "WaterVolumeCC": "7.0",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device4",
+      "TankName": "Gamma",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "ONN",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 92,
+      "WaterVolumeCC": "9.06",
+      "NotificationAlert": "Leak detected"
+    
+  },
+   {
+      "DeviceName": "Device5",
+      "TankName": "Razer",
+      "TankStatus": "Offline",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 55,
+      "WaterVolumeCC": "5.3",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device6",
+      "TankName": "Gomti",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "ONN",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 65,
+      "WaterVolumeCC": "6.45",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device7",
+      "TankName": "Catherine",
+      "TankStatus": "Offline",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 40,
+      "WaterVolumeCC": "4.2",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device8",
+      "TankName": "Santy",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "ONN",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 68,
+      "WaterVolumeCC": "6.78",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device9",
+      "TankName": "Omega",
+      "TankStatus": "Offline",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 52,
+      "WaterVolumeCC": "52.0",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device10",
+      "TankName": "Lambda",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "ONN",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 73,
+      "WaterVolumeCC": "7.29",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device11",
+      "TankName": "Charlie-1",
+      "TankStatus": "Offline",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 76,
+      "WaterVolumeCC": "7.69",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device12",
+      "TankName": "Lambda-1",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "ONN",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 79,
+      "WaterVolumeCC": "7.9",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device13",
+      "TankName": "Omega-1",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 63,
+      "WaterVolumeCC": "6.29",
+      "NotificationAlert": null
+    
+  },
+  {
+      "DeviceName": "Device14",
+      "TankName": "Santy-1",
+      "TankStatus": "Offline",
+      "Avatar": null,
+      "PumpStatus": "ONN",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 73,
+      "WaterVolumeCC": "7.29",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device15",
+      "TankName": "Catherine-1",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 83,
+      "WaterVolumeCC": "8.29",
+      "NotificationAlert": "Leak detected"
+    
+  },
+   {
+      "DeviceName": "Device16",
+      "TankName": "Alfa-1",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "ONN",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 49,
+      "WaterVolumeCC": "4.89",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device17",
+      "TankName": "Bita-1",
+      "TankStatus": "offline",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 73,
+      "WaterVolumeCC": "7.29",
+      "NotificationAlert": null
+    
+  },
+  {
+      "DeviceName": "Device18",
+      "TankName": "Lambda-2",
+      "TankStatus": "Offline",
+      "Avatar": null,
+      "PumpStatus": "ONN",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 51,
+      "WaterVolumeCC": "5.19",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device19",
+      "TankName": "Alfa-2",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 42,
+      "WaterVolumeCC": "4.29",
+      "NotificationAlert": null
+    
+  },
+  {
+      "DeviceName": "Device20",
+      "TankName": "Catherine",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "ONN",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 69,
+      "WaterVolumeCC": "6.69",
+      "NotificationAlert": null
+    
+  },
+  {
+      "DeviceName": "Device21",
+      "TankName": "Santy-1",
+      "TankStatus": "Offline",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 25,
+      "WaterVolumeCC": "2.49",
+      "NotificationAlert": null
+    
+  },
+  {
+      "DeviceName": "Device22",
+      "TankName": "Bita-2",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "ONN",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 73,
+      "WaterVolumeCC": "7.29",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device23",
+      "TankName": "Lambda-2",
+      "TankStatus": "Offline",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 74,
+      "WaterVolumeCC": "7.39",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device24",
+      "TankName": "Omega-2",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 44,
+      "WaterVolumeCC": "4.42",
+      "NotificationAlert": null
+    
+  },
+  {
+      "DeviceName": "Device25",
+      "TankName": "omega-3",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "ONN",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 23,
+      "WaterVolumeCC": "2.29",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device26",
+      "TankName": "Lambda-3",
+      "TankStatus": "Offline",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 89,
+      "WaterVolumeCC": "8.99",
+      "NotificationAlert": "Leak detected"
+    
+  },
+   {
+      "DeviceName": "Device27",
+      "TankName": "Alfa-3",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "ONN",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 73,
+      "WaterVolumeCC": "7.29",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device28",
+      "TankName": "Santy-3",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 27,
+      "WaterVolumeCC": "2.67",
+      "NotificationAlert": null
+    
+  },
+  {
+      "DeviceName": "Device29",
+      "TankName": "gamma-2",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "ONN",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 21,
+      "WaterVolumeCC": "2.11",
+      "NotificationAlert": null
+    
+  },
+   {
+      "DeviceName": "Device30",
+      "TankName": "Lambda",
+      "TankStatus": "Online",
+      "Avatar": null,
+      "PumpStatus": "OFF",
+      "WifiStatus": "Okay",
+      "WaterLevelPercent": 0,
+      "WaterVolumeCC": "7.29",
+      "NotificationAlert": null
+    
+  }
+]
